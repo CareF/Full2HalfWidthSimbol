@@ -11,3 +11,5 @@ it cannot run under Sublime Text 2 or other OS, please contact me.
 
 ## Usage
 Press `Ctrl+Shift+P` to call the panel, call the command `Full2HalfWidthSimbol: Switch`
+or Press `Ctrl+l, w`(`Super+l, w` for OSX, same in the following) to switch the whole text; 
+`Full2HalfWidthSimbol: Switch selected` or Press `Ctrl+l, s` to switch the selected text.
