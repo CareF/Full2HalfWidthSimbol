@@ -1,0 +1,12 @@
+[
+    // Switch the selected
+    {
+        "keys": ["ctrl+l","s"],
+        "command": "switch_selected"
+    },
+    // Switch whole
+    {
+        "keys": ["ctrl+l","w"],
+        "command": "switch"
+    }
+]

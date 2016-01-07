@@ -1,0 +1,12 @@
+[
+    // Switch the selected
+    {
+        "keys": ["super+l","s"],
+        "command": "switch_selected"
+    },
+    // Switch whole
+    {
+        "keys": ["super+l","w"],
+        "command": "switch"
+    }
+]
